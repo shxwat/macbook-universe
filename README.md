@@ -75,3 +75,8 @@ Run `node tests/boot.test.mjs` for startup sequencing, pause, completion, signat
 The default view follows the user's local `goroutine-industrial-18s.mp4` reference: a full-screen industrial scene, slow director camera, on-object callouts, one stage caption and a thin progress rail. Choose chapters from the rail or **Stages**, use play/pause and speed, and open the inspector for sourced explanations. Dragging takes over the camera; **Director on / Free camera** returns control to the automatic motion. Arrow keys step the startup sequence and Space toggles playback when focus is outside a control. **Workbench** opens the full assembly interface; the source plates remain available in either view.
 
 The reference video was used for interaction and visual direction. It does not establish MacBook hardware facts. Startup paths remain explicitly functional overlays, with physical traces and unlabeled chip identities left unverified.
+
+## Contributors
+
+- [Shashwat](https://github.com/shxwat) — project creator and direction.
+- Codex (OpenAI) — AI coding assistance, implementation, testing, and demo production.
