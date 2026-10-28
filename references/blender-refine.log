@@ -1,0 +1,567 @@
+00:00.448  blend            | Read blend: "/Users/shashwat/Documents/ChatGPT/nsfwwwwww/macbook-universe/MacBook-Pro-14-M4.blend"
+BlenderMCP: cannot start server in background mode (blender -b) - commands would never execute
+BlenderMCP: run Blender with a GUI, or use a virtual display: xvfb-run -a blender
+BlenderMCP addon registered
+INFO Draco is available, use library at /Applications/Blender.app/Contents/Resources/5.2/scripts/addons_core/io_scene_gltf2/libbf_intern_draco_bridge.dylib
+INFO MeshOptimizer is available, use library at /Applications/Blender.app/Contents/Resources/5.2/scripts/addons_core/io_scene_gltf2/libbf_intern_meshopt_bridge.dylib
+11:59:38 | INFO: Starting glTF 2.0 export
+11:59:38 | INFO: Extracting primitive: Cube.120
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Cube.123
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Cube.122
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Cube.816
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Cube.815
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Battery pouch
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Cube.799
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Cube.795
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Pouch folded edge
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Battery pouch.001
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Cube.804
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Cube.800
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Pouch folded edge.001
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Battery pouch.002
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Cube.809
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Cube.805
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Pouch folded edge.002
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Battery pouch.003
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Cube.814
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Cube.810
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Pouch folded edge.003
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Cylinder.979
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Lower case
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Regulatory engraving
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Torus
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Cylinder.1098
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Fan label
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Cylinder.1099
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Curved impeller vane
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Cylinder.1100
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Display aluminum rear
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Display perimeter seal
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Cylinder.1016
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Display black glass
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Cylinder.1019
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: DISPLAY_PIXELS
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Cylinder.1010
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Milled unibody frame
+11:59:38 | INFO: Primitives created: 2
+11:59:38 | INFO: Extracting primitive: Cube.687
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Cube.686
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Battery power lead
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Cube.697
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Cube.088
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Cube.093
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Cube.094
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Cube.089
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Cylinder.1008
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Cube.086
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Cube.085
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Cube.042
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Cube.047
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Cube.043
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Cylinder.1003
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Cube.114
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Cube.119
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Cube.115
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Cube.049
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Cube.065
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Cube.050
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Cube.055
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Cube.054
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Cube.067
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Cube.083
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Cube.068
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Cube.073
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Cube.072
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Cube.096
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Cube.112
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Cube.097
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Cube.102
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Cube.101
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Keycap_0_0
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Legend_esc
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Keycap_0_1
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Legend_F1
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Keycap_0_2
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Legend_F2
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Keycap_0_3
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Legend_F3
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Keycap_0_4
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Legend_F4
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Keycap_0_5
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Legend_F5
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Keycap_0_6
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Legend_F6
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Keycap_0_7
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Legend_F7
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Keycap_0_8
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Legend_F8
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Keycap_0_9
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Legend_F9
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Keycap_0_10
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Legend_F10
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Keycap_0_11
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Legend_F11
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Keycap_0_12
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Legend_F12
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Keycap_0_13
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Cylinder.001
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Cylinder
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Keycap_1_0
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Legend_`
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Legend_1
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Keycap_1_1
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Legend_2
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Keycap_1_2
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Legend_3
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Keycap_1_3
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Legend_4
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Keycap_1_4
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Legend_5
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Keycap_1_5
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Legend_6
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Keycap_1_6
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Legend_7
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Keycap_1_7
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Legend_8
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Keycap_1_8
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Legend_9
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Keycap_1_9
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Legend_0
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Keycap_1_10
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Keycap_1_11
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Legend_−
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Keycap_1_12
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Legend_=
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Keycap_1_13
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Legend_delete
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Keycap_2_0
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Legend_tab
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Keycap_2_1
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Legend_Q
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Keycap_2_2
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Legend_W
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Keycap_2_3
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Legend_E
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Keycap_2_4
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Legend_R
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Keycap_2_5
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Legend_T
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Keycap_2_6
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Legend_Y
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Keycap_2_7
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Legend_U
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Keycap_2_8
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Legend_I
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Keycap_2_9
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Legend_O
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Keycap_2_10
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Legend_P
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Keycap_2_11
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Legend_[
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Keycap_2_12
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Legend_]
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Keycap_2_13
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Legend_\
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Legend_caps lock
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Keycap_3_0
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Keycap_3_1
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Legend_A
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Keycap_3_2
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Legend_S
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Keycap_3_3
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Legend_D
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Keycap_3_4
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Legend_F
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Keycap_3_5
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Legend_G
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Keycap_3_6
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Legend_H
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Keycap_3_7
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Legend_J
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Keycap_3_8
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Legend_K
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Keycap_3_9
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Legend_L
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Keycap_3_10
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Legend_;
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Keycap_3_11
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Legend_'
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Keycap_3_12
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Legend_return
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Keycap_4_0
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Legend_shift
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Keycap_4_1
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Legend_Z
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Keycap_4_2
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Legend_X
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Keycap_4_3
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Legend_C
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Keycap_4_4
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Legend_V
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Keycap_4_5
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Legend_B
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Keycap_4_6
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Legend_N
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Keycap_4_7
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Legend_M
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Keycap_4_8
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Legend_,
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Keycap_4_9
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Legend_.
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Keycap_4_10
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Legend_/
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Keycap_4_11
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Legend_shift.001
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Keycap_5_0
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Legend_fn
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Keycap_5_1
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Legend_control
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Keycap_5_2
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Legend_option
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Keycap_5_3
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Legend_command
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Keycap_5_4
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Keycap_5_5
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Legend_command.001
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Keycap_5_6
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Legend_option.001
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Keycap_5_7
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Legend_◀
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Arrow legend
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Arrow legend.001
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Cube.113
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Cube.116
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Keycap_5_9
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Legend_▶
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Keyboard recessed backplate
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Cube.004
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Cube.053
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: DRAM marking.001
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Cube.196
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: DRAM marking
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Cube.195
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: PCB illustrative routing
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Cube.200
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Logic board substrate
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: M4 heat spreader
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: M4 marking
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: M4 package substrate
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: NAND marking
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Cube.197
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: NAND marking.001
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Cube.198
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Cube.001
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Cylinder.987
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Cube.006
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Cylinder.989
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Cube.011
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Cylinder.991
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Cube.016
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Cylinder.993
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Cube.021
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Cylinder.995
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Cube.026
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Cylinder.997
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Cube.031
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Cylinder.999
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Cube.036
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Cylinder.1001
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Driver surround
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Cube.822
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Woofer diaphragm
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Cylinder.1101
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Speaker acoustic enclosure
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Heat pipe
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Cube.746
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Palm rest and keyboard deck
+11:59:38 | INFO: Primitives created: 2
+11:59:38 | INFO: Extracting primitive: Cylinder.003
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Force Touch glass
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Trackpad precision gap
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Cube.832
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Trackpad backing
+11:59:38 | INFO: Primitives created: 1
+11:59:38 | INFO: Extracting primitive: Cube.833
+11:59:38 | INFO: Primitives created: 1
+11:59:39 | INFO: Finished glTF 2.0 export in 0.46452927589416504 s
+/Users/shashwat/Documents/ChatGPT/nsfwwwwww/macbook-universe/modeling/refine_and_render.py:36: DeprecationWarning: 'World.use_nodes' is expected to be removed in Blender 6.0
+  world=bpy.data.worlds.new('Studio HDR');world.use_nodes=True;scene.world=world
+00:12.600  render           | Saved: '/Users/shashwat/Documents/ChatGPT/nsfwwwwww/macbook-universe/references/blender-exterior.png'
+
+Info: Packed 1 file(s)
+Info: Saved as "MacBook-Pro-14-M4.blend"
+BlenderMCP server stopped
+BlenderMCP addon unregistered
+Blender 5.2.0 LTS (hash fbe6228777e7 built 2026-07-14 01:31:22)
+
+Blender quit

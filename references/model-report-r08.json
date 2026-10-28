@@ -1,0 +1,13 @@
+{
+  "revision": 8,
+  "meshes": 295,
+  "triangles": 421443,
+  "classification": "Photo-guided visual reconstruction; dimensions, component locations and electrical relationships remain approximate.",
+  "note": "The iFixit guide warns that some photographs show a previous model. No exact M4 cell dimensions or circuit nets are inferred from them.",
+  "sources": [
+    "https://support.apple.com/en-us/120769",
+    "https://support.apple.com/en-us/120750",
+    "https://support.apple.com/en-us/120762",
+    "https://www.ifixit.com/Guide/MacBook+Pro+14-Inch+Late+2024+(M4)+Battery+Replacement/217910"
+  ]
+}

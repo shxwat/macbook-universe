@@ -1,0 +1,12 @@
+{
+  "revision": 6,
+  "meshes": 287,
+  "triangles": 421851,
+  "visualMicrocomponentClusters": 326,
+  "classification": "Reference-guided visual reconstruction. Silhouettes and mechanical features are approximate; component identities, exact counts, electrical nets and locations are not established.",
+  "sources": [
+    "https://support.apple.com/en-us/120769",
+    "https://support.apple.com/en-us/120750",
+    "https://www.ifixit.com/Guide/MacBook+Pro+14-Inch+Late+2024+(M4)+Battery+Replacement/217910"
+  ]
+}
