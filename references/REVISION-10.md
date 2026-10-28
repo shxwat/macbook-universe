@@ -39,3 +39,11 @@ Each section shows the documented relationship and its reconstruction limits, wi
 ## Clean material rendering
 
 Automatic transparency fades, selection/boot emission tints, procedural roughness grain and product self-shadow maps have been removed. The cutaway lifts opaque assemblies before hiding them. Screen state is controlled by its texture alone, with a plain gradient background and no competing opacity/brightness updates. The camera depth range is tightened to reduce conflicts between small nearby surfaces. Explicit X-ray remains an opt-in inspection control. Browser checks covered the internal power view and final screen with no runtime errors.
+
+## Neutral product studio revision
+
+The viewer now uses neutral rectangular softbox reflections instead of the former HDR colour cast. The dark aluminum, satin keycaps and reflective screen have distinct materials. Decorative page gradients are removed, the camera holds a product framing at rest, and a contact shadow anchors the feet. This is a presentation correction; it does not certify hand-reconstructed manufacturing geometry.
+
+The idle display samples the wallpaper region from [Apple's exact-model reference image](https://cdsassets.apple.com/live/7WUAS350/images/tech-specs/mbp14-m4-2024.png), also retained in `references/apple-exterior-m4.png`. It is reference artwork, not an OS session. Startup and login remain illustrative states.
+
+The full-screen generic block scenes for non-startup lessons have been replaced by the corresponding laptop assemblies. Step changes separate the hardware study, with explanatory responsibilities remaining in the lesson panel. Chip floorplan mode remains explicitly conceptual.
