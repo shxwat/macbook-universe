@@ -14,12 +14,9 @@ for o in scene.objects:
   o.scale.z*=.55;o.location.z*=.55
 lid=bpy.data.objects['DISPLAY_HINGE'];lid.location.z=.077425;lid.rotation_euler.x=0
 for o in list(lid.children):
- if not o.name.startswith('R09 lid emblem'):
-  for c in list(o.children_recursive):bpy.data.objects.remove(c,do_unlink=True)
-  bpy.data.objects.remove(o,do_unlink=True)
+ for c in list(o.children_recursive):bpy.data.objects.remove(c,do_unlink=True)
+ bpy.data.objects.remove(o,do_unlink=True)
 wrapper=bpy.data.objects.new('R10_DISPLAY_STRUCTURE',None);bpy.context.collection.objects.link(wrapper);wrapper.parent=lid;wrapper.scale.y=.5
-for o in list(lid.children):
- if o.name.startswith('R09 lid emblem'):o.parent=wrapper;o.location.z+=.05
 
 def material(name,c,metal=0,rough=.4,emit=0):
  m=bpy.data.materials.new(name);m.use_nodes=True;m.diffuse_color=(*c,1);p=m.node_tree.nodes.get('Principled BSDF');p.inputs['Base Color'].default_value=(*c,1);p.inputs['Metallic'].default_value=metal;p.inputs['Roughness'].default_value=rough

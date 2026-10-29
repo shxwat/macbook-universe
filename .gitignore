@@ -9,3 +9,8 @@ dist/
 .env.*
 !.env.example
 .openai/
+*.log
+demo/clips.txt
+# Intermediate pipeline outputs; the app loads only macbook-m4-r10.glb.
+public/models/*.glb
+!public/models/macbook-m4-r10.glb

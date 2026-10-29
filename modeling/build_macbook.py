@@ -118,13 +118,12 @@ for side in [-1,1]:
   for iy in range(61):
    x=side*(1.337+ix*.019);y=-.30+iy*.018
    cyl('Speaker perforation',(x,y,.083),.0045,.0012,'well',deck,8)
-# Bottom cover, feet, engraving, case fasteners.
+# Bottom cover, feet, case fasteners.
 plate('Lower case',(0,0,-.071),3.115,2.20,.018,.115,'body',bottom)
 for x in [-1.20,1.20]:
  for y in [-.83,.82]:
   cyl('Rubber foot',(x,y,-.089),.107,.023,'rubber',bottom,48)
   cyl('Foot center',(x,y,-.103),.077,.003,'rubber',bottom,48)
-text('Regulatory engraving','MacBook Pro   •   Designed by Apple in California',(0,0,-.082),.025,'ink',bottom,rot=(math.pi,0,0))
 screw_pos=[(-1.36,.94),(-.49,1.00),(.49,1.00),(1.36,.94),(-1.46,-.07),(1.46,-.07),(-1.35,-.96),(1.35,-.96)]
 for i,(x,y) in enumerate(screw_pos):
  sr=root('CASE_SCREW_'+str(i),'screw-'+str(i),'screw',fast);cyl('Pentalobe head',(x,y,-.085),.022,.006,'steel',sr,24);cyl('Screw shaft',(x,y,-.064),.009,.04,'steel',sr,12)
@@ -169,11 +168,6 @@ screen=plate('DISPLAY_PIXELS',(0,-.030,1.004),2.965,1.845,.001,.047,'screen',lid
 box('Camera notch',(0,-.034,1.912),(.37,.012,.073),'glass',lid,.012)
 for x,r in [(0,.013),(-.067,.007),(.067,.005)]:
  cyl('Camera optics',(x,-.042,1.918),r,.004,'blue',lid,24,rotation=(math.pi/2,0,0))
-# Stylized Apple silhouette reconstructed as intersecting lobes and a leaf, on lid back.
-# No downloaded third-party product mesh is used.
-for x,z,r in [(-.056,.99,.078),(.056,.99,.078),(-.036,.93,.061),(.036,.93,.061)]:
- cyl('Lid insignia',(x,.043,z),r,.001,'well',lid,40,rotation=(math.pi/2,0,0))
-leaf=box('Insignia leaf',(.04,.043,1.10),(.045,.002,.085),'well',lid,.01);leaf.rotation_euler.y=-.55
 # Internals based on the service locator. One fan at right when seen through deck.
 # PCB outline excludes the fan pocket; small packages are educational visual reconstruction.
 pcb=plate('Logic board substrate',(-.38,.69,.005),1.79,.62,.025,.055,'pcb',board)
