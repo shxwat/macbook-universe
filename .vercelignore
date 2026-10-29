@@ -4,7 +4,7 @@ dist
 .openai
 *.blend
 *.blend1
-demo
-references
-modeling
+/demo
+/references
+/modeling
 *.tsbuildinfo
