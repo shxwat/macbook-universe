@@ -1,6 +1,6 @@
-You know what a MacBook looks like.
+You know what a laptop looks like.
 I wanted to understand what happens beneath it.
 
-Built MacBook Universe: an interactive hardware explorer with assembly cutaways, mechanisms, and a visual startup trace.
+Built Laptop Universe: an interactive hardware explorer with assembly cutaways, mechanisms, and a visual startup trace.
 
-Blender + Three.js. Reference-guided reconstruction.
+Blender + Three.js. Reference-guided reconstruction. Independent concept, not affiliated with Apple.

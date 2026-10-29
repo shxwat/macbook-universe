@@ -3,7 +3,7 @@ import numpy as np, wave, subprocess, json
 from PIL import Image,ImageDraw,ImageFont
 R=Path(__file__).resolve().parent; W,H=1080,1350;fps=30
 font='/System/Library/Fonts/Supplemental/Arial.ttf';bold='/System/Library/Fonts/Supplemental/Arial Bold.ttf'
-shots=[('01 / THE OBJECT','You know the outside.','MACBOOK UNIVERSE',4.0),('02 / LOOK CLOSER','Now go beneath it.','A MACHINE, OPENED UP.',4.0),('03 / THE SYSTEM','Every assembly. Connected.','POWER · COMPUTE · COOLING',4.5),('04 / BELOW THE SHIELDS','There is another layer.','EXPLORE THE LOGIC BOARD',4.0),('05 / HEAT → AIR','Follow the mechanism.','OPEN THE COOLING ASSEMBLY',4.0),('06 / TAKE IT APART','Understand the whole.','LAYER BY LAYER',4.5),('INTERACTIVE HARDWARE EXPLORER','MacBook Universe.','BUILT TO BE EXPLORED.',5.0)]
+shots=[('01 / THE OBJECT','You know the outside.','LAPTOP UNIVERSE',4.0),('02 / LOOK CLOSER','Now go beneath it.','A MACHINE, OPENED UP.',4.0),('03 / THE SYSTEM','Every assembly. Connected.','POWER · COMPUTE · COOLING',4.5),('04 / BELOW THE SHIELDS','There is another layer.','EXPLORE THE LOGIC BOARD',4.0),('05 / HEAT → AIR','Follow the mechanism.','OPEN THE COOLING ASSEMBLY',4.0),('06 / TAKE IT APART','Understand the whole.','LAYER BY LAYER',4.5),('INTERACTIVE HARDWARE EXPLORER','MacBook Universe.','BUILT TO BE EXPLORED.',5.0)]
 clips=[]
 for i,(label,title,sub,dur) in enumerate(shots):
  im=Image.new('RGBA',(W,H),(0,0,0,0));d=ImageDraw.Draw(im)
@@ -43,5 +43,5 @@ for j,at in enumerate(np.cumsum([0]+[s[3] for s in shots[:-1]])):
 audio=np.tanh(audio*1.3)*.75;audio*=np.minimum(t/.08,1)*np.clip((duration-t)/1.4,0,1)
 left=audio;right=np.roll(audio,240)*.97;stereo=np.stack([left,right],axis=1)
 with wave.open(str(R/'original-score.wav'),'wb') as f:f.setnchannels(2);f.setsampwidth(2);f.setframerate(sr);f.writeframes((stereo*32767).astype('<i2').tobytes())
-subprocess.run(['ffmpeg','-y','-loglevel','error','-f','concat','-safe','0','-i',str(R/'clips.txt'),'-i',str(R/'original-score.wav'),'-c:v','copy','-af','loudnorm=I=-16:TP=-1.5:LRA=8','-c:a','aac','-b:a','192k','-ar','48000','-movflags','+faststart','-shortest',str(R/'MacBook-Universe-X-Demo.mp4')],check=True)
+subprocess.run(['ffmpeg','-y','-loglevel','error','-f','concat','-safe','0','-i',str(R/'clips.txt'),'-i',str(R/'original-score.wav'),'-c:v','copy','-af','loudnorm=I=-16:TP=-1.5:LRA=8','-c:a','aac','-b:a','192k','-ar','48000','-movflags','+faststart','-shortest',str(R/'Laptop-Universe-Demo.mp4')],check=True)
 print('DEMO_EXPORT_COMPLETE',duration,flush=True)

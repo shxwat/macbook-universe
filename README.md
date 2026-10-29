@@ -16,7 +16,7 @@ The current revision rebuilds the display and exterior stack and adds eight expl
 - `public/models/macbook-m4-r10.glb` — current Draco-compressed runtime model; decoder shipped locally in `public/draco/`.
 - `modeling/rebuild_exterior_r10.py` — current exterior and display authoring pipeline.
 - `modeling/refine_exterior_r09.py` — exterior clean-up; strips any brand mark or trademark text inherited from earlier scenes. The lid back is plain aluminum.
-- `modeling/rebuild_internals.py`, `photo_guided_detail_r07.py`, and `structural_finish_r08.py` — successive interior reconstruction scripts. The original scene is preserved in `MacBook-Pro-14-M4.blend`.
+- `modeling/rebuild_internals.py`, `photo_guided_detail_r07.py`, and `structural_finish_r08.py` — successive interior reconstruction scripts. `MacBook-Pro-14-M4-internals-r08.blend` is kept as the input to the r09/r10 steps; earlier scenes are not committed and can be rebuilt from `modeling/build_macbook.py` onward.
 - `references/model-report.json` — mesh/triangle inventory and sources. Approximately 328k triangles before the final added detail; see report for updated counts.
 - `modeling/build_macbook.py`, `refine_and_render.py`, `final_adjust.py`, `export_web.py` — sequential authoring, refinement and export pipeline. Execute with Blender from this checkout. The first script resets the generated model scene; it does not import Apple CAD.
 

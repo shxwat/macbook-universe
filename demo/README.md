@@ -1,7 +1,10 @@
-# MacBook Universe demo
+# Laptop Universe demo
 
-Final: `MacBook-Universe-X-Demo.mp4` — 30 seconds, 1080 × 1350, 30 fps, H.264 / AAC stereo. Original locally synthesized score. No third-party music recording or samples.
+The rendered demo media is not committed. Regenerate it locally from the current (logo-free) model:
 
-This is a cinematic rendered showcase of the project's Blender model, edited with gentle framing motion and titles. It is not a live browser interaction recording. Tiny board details and electrical relationships are reconstructed, and the video identifies the project as an independent visual study.
+1. `blender -b --python demo/render_demo.py` renders the seven studio shots to `demo/renders/`.
+2. `blender -b --python demo/rerender_details.py` re-renders the internal shots without unverified board labels.
+3. `python3 demo/edit_demo.py` generates the title overlays, an original synthesized score and `Laptop-Universe-Demo.mp4` (30 s, 1080 × 1350, H.264 / AAC). Requires ffmpeg.
 
-`render_demo.py` renders the seven original studio shots. `rerender_details.py` removes old unverified board labels from the internal shots. `edit_demo.py` generates the typography, original sound bed and final MP4. `MacBook-Universe-Cover.jpg` is an optional post cover. Suggested post copy: `POST-CAPTION.txt`.
+Suggested post copy: `POST-CAPTION.txt`. Independent concept, not affiliated with Apple.
+

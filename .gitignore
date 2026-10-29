@@ -14,3 +14,9 @@ demo/clips.txt
 # Intermediate pipeline outputs; the app loads only macbook-m4-r10.glb.
 public/models/*.glb
 !public/models/macbook-m4-r10.glb
+# Generated demo media
+demo/renders/
+demo/*.mp4
+demo/*.png
+demo/*.jpg
+demo/*.wav
